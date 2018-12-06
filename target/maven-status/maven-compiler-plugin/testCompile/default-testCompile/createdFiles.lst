@@ -1,0 +1,4 @@
+test\edu\neu\genetic\algorithm\TSPGenomeTest.class
+test\edu\neu\genetic\algorithm\TSPPhenomeTest.class
+test\edu\neu\genetic\algorithm\CityTest.class
+test\edu\neu\genetic\algorithm\PopulationTest.class
